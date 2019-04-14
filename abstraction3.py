@@ -4,3 +4,4 @@ class x:
         self.__b=200
 x1=x()
 print(x1._x__a)
+heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
